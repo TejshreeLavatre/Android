@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WalmartApp</string>
+    <string name="product_list">Product List</string>
+    <string name="title_activity_product_details">ProductDetailsActivity</string>
+    <string name="short_desc">Short Desc</string>
+    <string name="textview">TextView</string>
+    <string name="product_id">Product ID</string>
+    <string name="long_desc">Long Desc</string>
+    <string name="price">Price</string>
+    <string name="review_rating">Review Rating</string>
+    <string name="review_count">Review Count</string>
+    <string name="in_stock">In Stock</string>
+    <string name="todo">TODO</string>
+    <string name="string_textview">\@string/textview</string>
+</resources>
